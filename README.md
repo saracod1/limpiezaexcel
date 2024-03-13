@@ -25,3 +25,5 @@ Se normalizaron los datos cuando fue necesario para garantizar la consistencia e
 
 Manejo de Valores Ausentes o Erróneos:
 Se identificaron y manejaron valores ausentes o erróneos de manera adecuada, ya sea eliminándolos, asignándoles un valor predeterminado o utilizando técnicas de imputación de datos para estimar valores faltantes de forma razonable.
+
+Descarga este archivo para visualizar el proyecto 👉🏼PROYECTO FINTRACK.xlsx
